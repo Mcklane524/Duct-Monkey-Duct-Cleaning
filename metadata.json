@@ -1,0 +1,7 @@
+{
+  "name": "Duct Monkey - High-Converting Air Duct Cleaning",
+  "description": "Professional air duct and dryer vent cleaning services. Breathe cleaner air and save on energy bills with Duct Monkey.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
